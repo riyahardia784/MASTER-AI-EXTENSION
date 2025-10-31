@@ -1,0 +1,15 @@
+{
+  "name": "ai-extension-master",
+  "version": "1.0.0",
+  "description": "AI Chrome Extension with learning, creation, and visualization tools.",
+  "private": true,
+  "scripts": {
+    "start": "npm-run-all --parallel start:frontend start:backend",
+    "start:frontend": "cd frontend && npm run dev",
+    "start:backend": "cd Backend && npm run start",
+    "install:all": "npm install && cd frontend && npm install && cd ../Backend && npm install"
+  },
+  "devDependencies": {
+    "npm-run-all": "^4.1.5"
+  }
+}

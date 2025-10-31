@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: open-sans, sans-serif;
+}
+.linear{
+    background: linear-gradient(90deg,#5de0e6,#004aad );
+}
+
+.perspective { perspective: 1000px; }
+.transform-style-preserve-3d { transform-style: preserve-3d; }
+.backface-hidden { backface-visibility: hidden; }
+.rotate-y-180 { transform: rotateY(180deg); }
+
+.storeTab::-webkit-scrollbar {
+  display: none;
+}

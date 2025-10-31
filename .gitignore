@@ -1,0 +1,58 @@
+# ---------------------------------------
+# 🧠 Master AI Extension – .gitignore
+# ---------------------------------------
+
+# ===== Node modules =====
+node_modules/
+frontend/node_modules/
+Backend/node_modules/
+
+# ===== Build outputs =====
+dist/
+build/
+frontend/dist/
+Backend/dist/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ===== Environment files =====
+.env
+.env.local
+.env.development
+.env.production
+
+# ===== Vite cache =====
+frontend/.vite/
+frontend/.cache/
+
+# ===== Editor files =====
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ===== System files =====
+*.tmp
+*.bak
+
+# ===== Chrome Extension files =====
+frontend/public/build/
+frontend/public/_metadata/
+
+# ===== OS-generated files =====
+ehthumbs.db
+Icon?
+desktop.ini
+
+# ===== Coverage & testing =====
+coverage/
+*.lcov
+
+# ===== Logs and temp files =====
+logs/
+tmp/
+temp/
