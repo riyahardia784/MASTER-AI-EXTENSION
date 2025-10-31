@@ -104,8 +104,7 @@ DB_CONNECT=mongodb://localhost:27017/MASTER
 API_KEY=YOUR_GOOGLE_GENAI_KEY
 ```
 
-> ⚠️ **Do NOT commit your API key** — keep it private.
-> Judges can generate their own Gemini API Key from [Google AI Studio](https://aistudio.google.com/app/apikey).
+> generate their own Gemini API Key from [Google AI Studio](https://aistudio.google.com/app/apikey).
 
 ---
 
