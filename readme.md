@@ -86,6 +86,7 @@ npm install
 ```bash
 cd Frontend
 npm install
+npm run build
 ```
 4️⃣ Install Backend Dependencies
 
@@ -153,8 +154,11 @@ This command runs both:
 2. Open Chrome → **Extensions → Manage Extensions**.
 3. Turn on **Developer Mode**.
 4. Click **Load Unpacked**.
-5. Select the `frontend` folder (or `dist` if built).
-6. The **MASTER** extension will appear in Chrome Toolbar.
+5. Select the `dist` folder.
+6. Copy your extension ID (looks like `chrome-extension://abcdefghijklmno`)
+7. Paste it inside `vite.config.js` at:```js
+    origin: 'chrome-extension://your-extension-id',
+8. The **MASTER** extension will appear in Chrome Toolbar.
 
 ---
 
