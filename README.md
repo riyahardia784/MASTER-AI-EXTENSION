@@ -202,7 +202,7 @@ Both sources are **synced visually** in the Stored page.
 
 ---
 
-Built to empower students and researchers to **“Learn Anything, Anywhere.”**
+Built to empower students and researcher to **“Learn Anything, Anywhere.”**
 
 ---
 
