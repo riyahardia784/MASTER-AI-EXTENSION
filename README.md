@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Overvie
+## 🚀 Overview
 
 **MASTER** is an AI-powered Chrome Extension that transforms any webpage into personalized learning material.
 It helps students generate **summaries**, **notes**, **flashcards**, **quizzes**, and **visualizations** — all in one click.
