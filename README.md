@@ -198,7 +198,7 @@ This command runs both:
 | **Main Extension (Frontend)**         | MongoDB              | Permanent storage for generated data                 |
 | **Content Script (Webpage Shortcut)** | Chrome Local Storage | Temporary or quick access data shown in "Stored" tab |
 
-Both sources are **synced visually** in the Stored page.
+Both sources are **synced visually** in the Store page.
 
 ---
 
