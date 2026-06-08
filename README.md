@@ -1,6 +1,6 @@
 # 🧠 MASTER — AI Study Assistant Chrome Extension
 
-> **Learn Smarter. Create Faster. Visualize Better.**
+> **Learn Smarter. Create Faster. Visualize Better**
 
 
 ---
