@@ -13,7 +13,8 @@ Additionally, it includes a **Create Section** that assists in generating essays
 
 Built for students, researchers, and lifelong learners — MASTER makes studying interactive, accessible, and efficient.
 
----
+--
+## view demo: https://www.youtube.com/watch?v=5HxDClFLV0g
 
 ## 🎯 Key Features
 
